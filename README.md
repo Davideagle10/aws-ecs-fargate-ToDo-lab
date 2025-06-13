@@ -24,7 +24,7 @@ This repository contains a simple ToDo list application built with Express.js an
    ```bash
    npm start
    ```
-5. Access the application at http://localhost:3000
+5. Access the application at http://localhost:80
 
 ## Building and Testing the Docker Image
 
